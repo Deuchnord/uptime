@@ -16,8 +16,6 @@ sites:
     url: https://paste.deuchnord.fr
   - name: LUFi
     url: https://drop.deuchnord.fr
-  - name: searx
-    url: https://searx.deuchnord.fr
   - name: Nitter
     url: https://nit.deuchnord.fr
 
