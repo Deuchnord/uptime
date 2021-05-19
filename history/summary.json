@@ -112,17 +112,17 @@
     "url": "https://nit.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/nit.deuchnord.fr",
     "slug": "nitter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 397,
-    "timeWeek": 332,
-    "timeMonth": 407,
-    "timeYear": 401,
+    "time": 407,
+    "timeDay": 491,
+    "timeWeek": 364,
+    "timeMonth": 412,
+    "timeYear": 407,
     "dailyMinutesDown": {}
   }
 ]
