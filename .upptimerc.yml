@@ -8,6 +8,8 @@ sites:
     url: https://deuchnord.fr
   - name: Shaarli
     url: https://link.deuchnord.fr
+  - name: "Kosmorro's website"
+    url: https://kosmorro.space
   - name: Galerie de photos
     url: https://pix.deuchnord.fr
   - name: Astronewbie
