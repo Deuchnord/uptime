@@ -36,6 +36,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Kosmorro's website",
+    "url": "https://kosmorro.space",
+    "icon": "https://favicons.githubusercontent.com/kosmorro.space",
+    "slug": "kosmorro-s-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 177,
+    "timeDay": 177,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Galerie de photos",
     "url": "https://pix.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/pix.deuchnord.fr",
@@ -67,7 +85,7 @@
     "time": 566,
     "timeDay": 460,
     "timeWeek": 501,
-    "timeMonth": 566,
+    "timeMonth": 570,
     "timeYear": 566,
     "dailyMinutesDown": {}
   },
@@ -112,17 +130,17 @@
     "url": "https://nit.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/nit.deuchnord.fr",
     "slug": "nitter",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 397,
+    "time": 395,
     "timeDay": 311,
-    "timeWeek": 369,
-    "timeMonth": 404,
-    "timeYear": 397,
+    "timeWeek": 362,
+    "timeMonth": 401,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   }
 ]
