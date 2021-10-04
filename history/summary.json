@@ -4,19 +4,19 @@
     "url": "https://deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/deuchnord.fr",
     "slug": "les-logiciels-deuchnord",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1041,
-    "timeDay": 503,
-    "timeWeek": 586,
-    "timeMonth": 540,
-    "timeYear": 1041,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 1038,
+    "timeDay": 541,
+    "timeWeek": 585,
+    "timeMonth": 541,
+    "timeYear": 1038,
     "dailyMinutesDown": {
-      "2021-10-04": 2
+      "2021-10-04": 32
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://link.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/link.deuchnord.fr",
     "slug": "shaarli",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 1570,
-    "timeDay": 1497,
-    "timeWeek": 1671,
-    "timeMonth": 1616,
+    "timeDay": 1496,
+    "timeWeek": 1649,
+    "timeMonth": 1612,
     "timeYear": 1570,
     "dailyMinutesDown": {
-      "2021-10-04": 1
+      "2021-10-04": 32
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://pix.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/pix.deuchnord.fr",
     "slug": "galerie-de-photos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 916,
-    "timeDay": 861,
-    "timeWeek": 950,
-    "timeMonth": 1089,
+    "timeDay": 909,
+    "timeWeek": 951,
+    "timeMonth": 1086,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2021-10-04": 1
+      "2021-10-04": 32
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://paste.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/paste.deuchnord.fr",
     "slug": "privatebin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 589,
-    "timeWeek": 660,
-    "timeMonth": 646,
-    "timeYear": 624,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 623,
+    "timeDay": 538,
+    "timeWeek": 638,
+    "timeMonth": 641,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2021-10-04": 1
+      "2021-10-04": 31
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://drop.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/drop.deuchnord.fr",
     "slug": "lu-fi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 453,
-    "timeWeek": 574,
-    "timeMonth": 581,
-    "timeYear": 532,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 534,
+    "timeDay": 689,
+    "timeWeek": 618,
+    "timeMonth": 591,
+    "timeYear": 534,
     "dailyMinutesDown": {
-      "2021-10-04": 0
+      "2021-10-04": 31
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://nit.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/nit.deuchnord.fr",
     "slug": "nitter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 467,
-    "timeDay": 426,
-    "timeWeek": 526,
-    "timeMonth": 510,
+    "timeDay": 484,
+    "timeWeek": 528,
+    "timeMonth": 511,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2021-10-04": 0
+      "2021-10-04": 31
     }
   }
 ]
