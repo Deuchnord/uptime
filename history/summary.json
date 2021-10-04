@@ -4,10 +4,10 @@
     "url": "https://deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/deuchnord.fr",
     "slug": "les-logiciels-deuchnord",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1041,
@@ -15,17 +15,19 @@
     "timeWeek": 586,
     "timeMonth": 540,
     "timeYear": 1041,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-04": 2
+    }
   },
   {
     "name": "Shaarli",
     "url": "https://link.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/link.deuchnord.fr",
     "slug": "shaarli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1570,
@@ -33,7 +35,9 @@
     "timeWeek": 1671,
     "timeMonth": 1616,
     "timeYear": 1570,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-04": 1
+    }
   },
   {
     "name": "Kosmorro's website",
@@ -58,10 +62,10 @@
     "url": "https://pix.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/pix.deuchnord.fr",
     "slug": "galerie-de-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 916,
@@ -69,7 +73,9 @@
     "timeWeek": 950,
     "timeMonth": 1089,
     "timeYear": 916,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-04": 1
+    }
   },
   {
     "name": "Astronewbie",
@@ -94,10 +100,10 @@
     "url": "https://paste.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/paste.deuchnord.fr",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 624,
@@ -105,16 +111,18 @@
     "timeWeek": 660,
     "timeMonth": 646,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-04": 1
+    }
   },
   {
     "name": "LUFi",
     "url": "https://drop.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/drop.deuchnord.fr",
     "slug": "lu-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,16 +131,18 @@
     "timeWeek": 574,
     "timeMonth": 581,
     "timeYear": 532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-04": 0
+    }
   },
   {
     "name": "Nitter",
     "url": "https://nit.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/nit.deuchnord.fr",
     "slug": "nitter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,6 +151,8 @@
     "timeWeek": 526,
     "timeMonth": 510,
     "timeYear": 467,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-04": 0
+    }
   }
 ]
