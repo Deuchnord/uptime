@@ -4,11 +4,11 @@
     "url": "https://deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/deuchnord.fr",
     "slug": "les-logiciels-deuchnord",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1015,
     "timeDay": 502,
@@ -16,6 +16,7 @@
     "timeMonth": 538,
     "timeYear": 1015,
     "dailyMinutesDown": {
+      "2021-10-13": 3,
       "2021-10-04": 32
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://link.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/link.deuchnord.fr",
     "slug": "shaarli",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1571,
     "timeDay": 1396,
@@ -36,6 +37,7 @@
     "timeMonth": 1603,
     "timeYear": 1571,
     "dailyMinutesDown": {
+      "2021-10-13": 2,
       "2021-10-04": 32
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://kosmorro.space",
     "icon": "https://favicons.githubusercontent.com/kosmorro.space",
     "slug": "kosmorro-s-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
@@ -55,18 +57,20 @@
     "timeWeek": 211,
     "timeMonth": 220,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 2
+    }
   },
   {
     "name": "Galerie de photos",
     "url": "https://pix.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/pix.deuchnord.fr",
     "slug": "galerie-de-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 915,
     "timeDay": 792,
@@ -74,6 +78,7 @@
     "timeMonth": 1085,
     "timeYear": 915,
     "dailyMinutesDown": {
+      "2021-10-13": 1,
       "2021-10-04": 32
     }
   },
@@ -82,10 +87,10 @@
     "url": "https://astronewbie.space",
     "icon": "https://favicons.githubusercontent.com/astronewbie.space",
     "slug": "astronewbie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 591,
@@ -93,17 +98,19 @@
     "timeWeek": 587,
     "timeMonth": 574,
     "timeYear": 591,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 1
+    }
   },
   {
     "name": "Privatebin",
     "url": "https://paste.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/paste.deuchnord.fr",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 623,
@@ -112,6 +119,7 @@
     "timeMonth": 640,
     "timeYear": 623,
     "dailyMinutesDown": {
+      "2021-10-13": 1,
       "2021-10-04": 31
     }
   },
@@ -120,9 +128,9 @@
     "url": "https://drop.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/drop.deuchnord.fr",
     "slug": "lu-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -132,6 +140,7 @@
     "timeMonth": 587,
     "timeYear": 535,
     "dailyMinutesDown": {
+      "2021-10-13": 0,
       "2021-10-04": 31
     }
   },
@@ -140,9 +149,9 @@
     "url": "https://nit.deuchnord.fr",
     "icon": "https://favicons.githubusercontent.com/nit.deuchnord.fr",
     "slug": "nitter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -152,6 +161,7 @@
     "timeMonth": 510,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2021-10-13": 0,
       "2021-10-04": 31
     }
   }
