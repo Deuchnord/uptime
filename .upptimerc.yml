@@ -18,8 +18,6 @@ sites:
     url: https://paste.deuchnord.fr
   - name: LUFi
     url: https://drop.deuchnord.fr
-  - name: Nitter
-    url: https://nit.deuchnord.fr
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
