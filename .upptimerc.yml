@@ -6,8 +6,8 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: Les logiciels Deuchnord
     url: https://deuchnord.fr
-  - name: Shaarli
-    url: https://link.deuchnord.fr
+  - name: DeuchTech
+    url: https://tech.deuchnord.fr
   - name: "Kosmorro's website"
     url: https://kosmorro.space
   - name: Galerie de photos
