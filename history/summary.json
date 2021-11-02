@@ -10,37 +10,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.96%",
-    "time": 971,
-    "timeDay": 406,
-    "timeWeek": 573,
-    "timeMonth": 567,
-    "timeYear": 971,
+    "time": 969,
+    "timeDay": 457,
+    "timeWeek": 565,
+    "timeMonth": 565,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2021-10-13": 77,
       "2021-10-04": 32
     }
   },
   {
-    "name": "Shaarli",
-    "url": "https://link.deuchnord.fr",
-    "icon": "https://favicons.githubusercontent.com/link.deuchnord.fr",
-    "slug": "shaarli",
+    "name": "DeuchTech",
+    "url": "https://tech.deuchnord.fr",
+    "icon": "https://favicons.githubusercontent.com/tech.deuchnord.fr",
+    "slug": "deuch-tech",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "88.32%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.91%",
-    "time": 1588,
-    "timeDay": 1808,
-    "timeWeek": 1813,
-    "timeMonth": 1700,
-    "timeYear": 1588,
-    "dailyMinutesDown": {
-      "2021-11-02": 168,
-      "2021-10-13": 77,
-      "2021-10-04": 32
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1113,
+    "timeDay": 1113,
+    "timeWeek": 1113,
+    "timeMonth": 1113,
+    "timeYear": 1113,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kosmorro's website",
@@ -54,9 +50,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 270,
-    "timeDay": 123,
-    "timeWeek": 241,
-    "timeMonth": 316,
+    "timeDay": 124,
+    "timeWeek": 227,
+    "timeMonth": 310,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2021-10-13": 39
@@ -74,9 +70,9 @@
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.91%",
     "time": 924,
-    "timeDay": 1036,
-    "timeWeek": 1049,
-    "timeMonth": 974,
+    "timeDay": 980,
+    "timeWeek": 1028,
+    "timeMonth": 971,
     "timeYear": 924,
     "dailyMinutesDown": {
       "2021-11-02": 167,
@@ -95,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
-    "time": 595,
-    "timeDay": 468,
-    "timeWeek": 607,
-    "timeMonth": 612,
-    "timeYear": 595,
+    "time": 594,
+    "timeDay": 438,
+    "timeWeek": 585,
+    "timeMonth": 607,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2021-10-13": 60
     }
@@ -116,9 +112,9 @@
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.91%",
     "time": 629,
-    "timeDay": 686,
-    "timeWeek": 750,
-    "timeMonth": 668,
+    "timeDay": 655,
+    "timeWeek": 733,
+    "timeMonth": 666,
     "timeYear": 629,
     "dailyMinutesDown": {
       "2021-11-02": 165,
@@ -138,35 +134,13 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.91%",
     "time": 541,
-    "timeDay": 619,
-    "timeWeek": 619,
-    "timeMonth": 593,
+    "timeDay": 596,
+    "timeWeek": 612,
+    "timeMonth": 592,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2021-11-02": 164,
       "2021-10-13": 60,
-      "2021-10-04": 31
-    }
-  },
-  {
-    "name": "Nitter",
-    "url": "https://nit.deuchnord.fr",
-    "icon": "https://favicons.githubusercontent.com/nit.deuchnord.fr",
-    "slug": "nitter",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "89.87%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.91%",
-    "time": 519,
-    "timeDay": 4037,
-    "timeWeek": 1460,
-    "timeMonth": 786,
-    "timeYear": 519,
-    "dailyMinutesDown": {
-      "2021-11-02": 146,
-      "2021-10-13": 79,
       "2021-10-04": 31
     }
   }
