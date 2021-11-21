@@ -1,7 +1,7 @@
 url: https://tech.deuchnord.fr
-status: up
-code: 200
-responseTime: 1486
-lastUpdated: 2021-11-20T23:17:08.980Z
+status: down
+code: 502
+responseTime: 496
+lastUpdated: 2021-11-21T01:06:20.891Z
 startTime: Tue Nov 02 2021 17:24:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
