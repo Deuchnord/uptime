@@ -87,9 +87,9 @@
     "url": "https://astronewbie.space",
     "icon": "https://favicons.githubusercontent.com/astronewbie.space",
     "slug": "astronewbie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
@@ -99,6 +99,7 @@
     "timeMonth": 582,
     "timeYear": 585,
     "dailyMinutesDown": {
+      "2021-12-18": 0,
       "2021-12-09": 16,
       "2021-11-21": 16,
       "2021-10-13": 60
