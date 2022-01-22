@@ -4,7 +4,7 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Les logiciels Deuchnord
+  - name: Deuchnord.fr
     url: https://deuchnord.fr
   - name: DeuchTech
     url: https://tech.deuchnord.fr
