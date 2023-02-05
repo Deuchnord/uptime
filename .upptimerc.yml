@@ -4,8 +4,10 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Deuchnord.fr
+  - name: deuchnord.fr
     url: https://deuchnord.fr
+  - name: ActivityPub on deuchnord.fr
+    url: https://deuchnord.fr/.well-known/webfinger?resource=acct:blog@deuchnord.fr
   - name: DeuchTech
     url: https://tech.deuchnord.fr
   - name: "Kosmorro's website"
