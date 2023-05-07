@@ -29,9 +29,9 @@
     "slug": "activity-pub-on-deuchnord-fr",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 384,
     "timeDay": 2365,
@@ -39,7 +39,6 @@
     "timeMonth": 674,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2023-05-06": 6,
       "2023-03-02": 29,
       "2023-02-14": 62
     }
