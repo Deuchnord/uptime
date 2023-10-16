@@ -30,9 +30,9 @@
     "slug": "activity-pub-on-deuchnord-fr",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.90%",
     "time": 428,
     "timeDay": 418,
@@ -40,7 +40,7 @@
     "timeMonth": 594,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2023-10-15": 43,
+      "2023-10-15": 39,
       "2023-10-05": 37,
       "2023-09-07": 59,
       "2023-09-06": 130,
@@ -64,7 +64,7 @@
     "timeDay": 1464,
     "timeWeek": 1328,
     "timeMonth": 1229,
-    "timeYear": 1327,
+    "timeYear": 1326,
     "dailyMinutesDown": {
       "2023-10-05": 36,
       "2023-09-07": 50,
@@ -88,7 +88,7 @@
     "timeDay": 321,
     "timeWeek": 264,
     "timeMonth": 245,
-    "timeYear": 281,
+    "timeYear": 280,
     "dailyMinutesDown": {}
   },
   {
@@ -106,7 +106,7 @@
     "timeDay": 1193,
     "timeWeek": 1085,
     "timeMonth": 1039,
-    "timeYear": 1063,
+    "timeYear": 1062,
     "dailyMinutesDown": {
       "2023-10-05": 30,
       "2023-09-07": 49,
@@ -157,7 +157,7 @@
     "timeDay": 773,
     "timeWeek": 666,
     "timeMonth": 630,
-    "timeYear": 679,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2023-10-05": 28,
       "2023-09-07": 39,
