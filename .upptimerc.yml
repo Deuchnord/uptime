@@ -12,8 +12,6 @@ sites:
     url: https://tech.deuchnord.fr
   - name: "Kosmorro's website"
     url: https://kosmorro.space
-  - name: Galerie de photos
-    url: https://pix.deuchnord.fr
   - name: Privatebin
     url: https://paste.deuchnord.fr
   - name: LUFi
