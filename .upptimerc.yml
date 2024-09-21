@@ -10,6 +10,8 @@ sites:
     url: https://deuchnord.fr/.well-known/webfinger?resource=acct:blog@deuchnord.fr
   - name: DeuchTech
     url: https://tech.deuchnord.fr
+  - name: Mastodon
+    url: https://social.deuchnord.fr
   - name: "Kosmorro's website"
     url: https://kosmorro.space
   - name: Privatebin
