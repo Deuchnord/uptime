@@ -162,9 +162,9 @@
     "url": "https://social.deuchnord.fr",
     "icon": "https://icons.duckduckgo.com/ip3/social.deuchnord.fr.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -173,7 +173,9 @@
     "timeWeek": 684,
     "timeMonth": 665,
     "timeYear": 665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "Kosmorro's website",
