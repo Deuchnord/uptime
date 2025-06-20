@@ -1,7 +1,7 @@
 url: https://deuchnord.fr/.well-known/webfinger?resource=acct:blog@deuchnord.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-20T15:54:07.156Z
+status: up
+code: 200
+responseTime: 99
+lastUpdated: 2025-06-20T16:30:37.792Z
 startTime: 2023-02-05T09:53:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
