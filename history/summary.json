@@ -171,19 +171,19 @@
     "url": "https://kosmorro.space",
     "icon": "https://icons.duckduckgo.com/ip3/kosmorro.space.ico",
     "slug": "kosmorro-s-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "92.05%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.98%",
     "time": 304,
-    "timeDay": 396,
-    "timeWeek": 277,
-    "timeMonth": 318,
+    "timeDay": 287,
+    "timeWeek": 265,
+    "timeMonth": 314,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2025-09-24": 0
+      "2025-09-24": 114
     }
   },
   {
