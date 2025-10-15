@@ -166,19 +166,19 @@
     "url": "https://social.deuchnord.fr",
     "icon": "https://icons.duckduckgo.com/ip3/social.deuchnord.fr.ico",
     "slug": "mastodon",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 688,
-    "timeDay": 615,
-    "timeWeek": 696,
-    "timeMonth": 803,
+    "timeDay": 607,
+    "timeWeek": 684,
+    "timeMonth": 796,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2025-10-15": 0
+      "2025-10-15": 24
     }
   },
   {
