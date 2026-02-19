@@ -6,15 +6,15 @@
     "slug": "deuchnord-fr",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "23.86%",
+    "uptimeDay": "47.02%",
     "uptimeWeek": "63.87%",
-    "uptimeMonth": "84.31%",
+    "uptimeMonth": "85.08%",
     "uptimeYear": "97.79%",
     "time": 756,
-    "timeDay": 4745,
-    "timeWeek": 1883,
-    "timeMonth": 1087,
-    "timeYear": 780,
+    "timeDay": 2280,
+    "timeWeek": 1880,
+    "timeMonth": 1083,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2026-02-18": 894,
       "2026-02-17": 818,
@@ -60,8 +60,7 @@
       "2025-04-07": 30,
       "2025-03-31": 156,
       "2025-02-27": 28,
-      "2025-02-23": 70,
-      "2025-02-19": 22
+      "2025-02-23": 70
     }
   },
   {
@@ -71,14 +70,14 @@
     "slug": "activity-pub-on-deuchnord-fr",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "8.78%",
+    "uptimeDay": "38.73%",
     "uptimeWeek": "61.20%",
-    "uptimeMonth": "83.62%",
+    "uptimeMonth": "84.39%",
     "uptimeYear": "96.29%",
     "time": 459,
-    "timeDay": 1109,
-    "timeWeek": 340,
-    "timeMonth": 269,
+    "timeDay": 251,
+    "timeWeek": 339,
+    "timeMonth": 263,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2026-02-18": 1014,
@@ -134,8 +133,7 @@
       "2025-03-31": 156,
       "2025-03-11": 85,
       "2025-02-27": 28,
-      "2025-02-23": 70,
-      "2025-02-19": 22
+      "2025-02-23": 70
     }
   },
   {
@@ -145,14 +143,14 @@
     "slug": "deuch-tech",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "13.00%",
+    "uptimeDay": "38.76%",
     "uptimeWeek": "61.59%",
-    "uptimeMonth": "83.65%",
+    "uptimeMonth": "84.42%",
     "uptimeYear": "97.72%",
-    "time": 1542,
-    "timeDay": 5204,
-    "timeWeek": 2091,
-    "timeMonth": 1718,
+    "time": 1541,
+    "timeDay": 1325,
+    "timeWeek": 2082,
+    "timeMonth": 1678,
     "timeYear": 1596,
     "dailyMinutesDown": {
       "2026-02-18": 1013,
@@ -200,8 +198,7 @@
       "2025-03-31": 154,
       "2025-03-11": 85,
       "2025-02-27": 28,
-      "2025-02-23": 69,
-      "2025-02-19": 21
+      "2025-02-23": 69
     }
   },
   {
@@ -216,9 +213,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 701,
-    "timeDay": 681,
-    "timeWeek": 661,
-    "timeMonth": 694,
+    "timeDay": 574,
+    "timeWeek": 652,
+    "timeMonth": 696,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2025-10-23": 25,
@@ -237,9 +234,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 308,
-    "timeDay": 209,
-    "timeWeek": 368,
-    "timeMonth": 337,
+    "timeDay": 277,
+    "timeWeek": 358,
+    "timeMonth": 338,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2025-09-24": 114
@@ -252,14 +249,14 @@
     "slug": "privatebin",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "9.07%",
+    "uptimeDay": "38.84%",
     "uptimeWeek": "61.30%",
-    "uptimeMonth": "83.81%",
+    "uptimeMonth": "84.58%",
     "uptimeYear": "96.40%",
-    "time": 854,
-    "timeDay": 5597,
-    "timeWeek": 1709,
-    "timeMonth": 1052,
+    "time": 853,
+    "timeDay": 631,
+    "timeWeek": 1704,
+    "timeMonth": 1046,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2026-02-18": 1012,
@@ -310,8 +307,7 @@
       "2025-03-31": 153,
       "2025-03-11": 84,
       "2025-02-27": 27,
-      "2025-02-23": 35,
-      "2025-02-19": 21
+      "2025-02-23": 35
     }
   },
   {
@@ -321,14 +317,14 @@
     "slug": "lu-fi",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "11.07%",
+    "uptimeDay": "38.87%",
     "uptimeWeek": "61.62%",
-    "uptimeMonth": "83.71%",
+    "uptimeMonth": "84.50%",
     "uptimeYear": "97.76%",
     "time": 805,
-    "timeDay": 790,
-    "timeWeek": 809,
-    "timeMonth": 892,
+    "timeDay": 748,
+    "timeWeek": 817,
+    "timeMonth": 887,
     "timeYear": 835,
     "dailyMinutesDown": {
       "2026-02-18": 1012,
@@ -374,8 +370,7 @@
       "2025-03-31": 151,
       "2025-03-11": 84,
       "2025-02-27": 27,
-      "2025-02-23": 35,
-      "2025-02-19": 21
+      "2025-02-23": 35
     }
   }
 ]
