@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/deuchnord.fr.ico",
     "slug": "deuchnord-fr",
     "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "85.57%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "96.44%",
+    "uptime": "99.19%",
+    "uptimeDay": "72.54%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "96.40%",
     "time": 791,
     "timeDay": 434,
-    "timeWeek": 571,
+    "timeWeek": 573,
     "timeMonth": 594,
-    "timeYear": 802,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2025-10-06": 96,
       "2025-10-07": 127,
@@ -73,7 +73,7 @@
       "2026-06-15": 545,
       "2026-06-20": 168,
       "2026-06-21": 19,
-      "2026-07-05": 208
+      "2026-07-05": 395
     }
   },
   {
@@ -82,16 +82,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/deuchnord.fr.ico",
     "slug": "activity-pub-on-deuchnord-fr",
     "status": "down",
-    "uptime": "98.54%",
-    "uptimeDay": "90.19%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "95.00%",
+    "uptime": "98.53%",
+    "uptimeDay": "77.16%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "94.96%",
     "time": 528,
     "timeDay": 6001,
-    "timeWeek": 2235,
+    "timeWeek": 2471,
     "timeMonth": 923,
-    "timeYear": 624,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2025-10-12": 121,
       "2025-10-13": 327,
@@ -157,7 +157,7 @@
       "2026-06-15": 535,
       "2026-06-20": 158,
       "2026-06-21": 19,
-      "2026-07-05": 142
+      "2026-07-05": 329
     }
   },
   {
@@ -165,17 +165,17 @@
     "url": "https://tech.deuchnord.fr",
     "icon": "https://icons.duckduckgo.com/ip3/tech.deuchnord.fr.ico",
     "slug": "deuch-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "96.37%",
-    "time": 1687,
-    "timeDay": 2807,
-    "timeWeek": 1761,
-    "timeMonth": 1930,
-    "timeYear": 1730,
+    "uptimeDay": "82.90%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "96.34%",
+    "time": 1717,
+    "timeDay": 6596,
+    "timeWeek": 3605,
+    "timeMonth": 2375,
+    "timeYear": 1766,
     "dailyMinutesDown": {
       "2025-10-06": 64,
       "2025-10-07": 126,
@@ -235,7 +235,7 @@
       "2026-06-15": 525,
       "2026-06-20": 147,
       "2026-06-21": 20,
-      "2026-07-05": 59
+      "2026-07-05": 247
     }
   },
   {
@@ -251,9 +251,9 @@
     "uptimeYear": "99.99%",
     "time": 721,
     "timeDay": 529,
-    "timeWeek": 637,
+    "timeWeek": 618,
     "timeMonth": 677,
-    "timeYear": 728,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2025-10-15": 24,
       "2025-10-23": 25
@@ -272,7 +272,7 @@
     "uptimeYear": "99.98%",
     "time": 314,
     "timeDay": 159,
-    "timeWeek": 227,
+    "timeWeek": 225,
     "timeMonth": 261,
     "timeYear": 321,
     "dailyMinutesDown": {
@@ -284,17 +284,17 @@
     "url": "https://paste.deuchnord.fr",
     "icon": "https://icons.duckduckgo.com/ip3/paste.deuchnord.fr.ico",
     "slug": "privatebin",
-    "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "95.08%",
-    "time": 868,
-    "timeDay": 1569,
-    "timeWeek": 999,
-    "timeMonth": 863,
-    "timeYear": 875,
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "83.56%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "95.05%",
+    "time": 871,
+    "timeDay": 1739,
+    "timeWeek": 1175,
+    "timeMonth": 901,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2025-10-03": 15,
       "2025-10-06": 97,
@@ -358,7 +358,7 @@
       "2026-06-15": 515,
       "2026-06-20": 138,
       "2026-06-21": 20,
-      "2026-07-05": 49
+      "2026-07-05": 237
     }
   }
 ]
