@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deuchnord.fr.ico",
     "slug": "deuchnord-fr",
     "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "68.43%",
-    "uptimeWeek": "95.49%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "96.39%",
+    "uptime": "99.18%",
+    "uptimeDay": "55.50%",
+    "uptimeWeek": "93.64%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "96.36%",
     "time": 791,
     "timeDay": 396,
     "timeWeek": 573,
@@ -73,7 +73,7 @@
       "2026-06-15": 545,
       "2026-06-20": 168,
       "2026-06-21": 19,
-      "2026-07-06": 28,
+      "2026-07-06": 214,
       "2026-07-05": 427
     }
   },
@@ -83,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deuchnord.fr.ico",
     "slug": "activity-pub-on-deuchnord-fr",
     "status": "down",
-    "uptime": "98.52%",
-    "uptimeDay": "73.05%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "94.95%",
+    "uptime": "98.51%",
+    "uptimeDay": "60.12%",
+    "uptimeWeek": "94.30%",
+    "uptimeMonth": "97.06%",
+    "uptimeYear": "94.92%",
     "time": 528,
     "timeDay": 8858,
     "timeWeek": 2471,
@@ -159,7 +159,7 @@
       "2026-06-20": 158,
       "2026-06-21": 19,
       "2026-07-05": 360,
-      "2026-07-06": 28
+      "2026-07-06": 214
     }
   },
   {
@@ -168,11 +168,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tech.deuchnord.fr.ico",
     "slug": "deuch-tech",
     "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "82.55%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "96.34%",
+    "uptime": "99.21%",
+    "uptimeDay": "69.61%",
+    "uptimeWeek": "95.66%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "96.31%",
     "time": 1717,
     "timeDay": 8432,
     "timeWeek": 3605,
@@ -238,7 +238,7 @@
       "2026-06-20": 147,
       "2026-06-21": 20,
       "2026-07-05": 247,
-      "2026-07-06": 5
+      "2026-07-06": 191
     }
   },
   {
@@ -289,10 +289,10 @@
     "slug": "privatebin",
     "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "83.54%",
-    "uptimeWeek": "97.65%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "95.05%",
+    "uptimeDay": "70.61%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "97.50%",
+    "uptimeYear": "95.01%",
     "time": 872,
     "timeDay": 2122,
     "timeWeek": 1175,
@@ -361,7 +361,7 @@
       "2026-06-20": 138,
       "2026-06-21": 20,
       "2026-07-05": 237,
-      "2026-07-06": 0
+      "2026-07-06": 187
     }
   }
 ]
