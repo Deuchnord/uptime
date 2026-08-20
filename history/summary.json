@@ -4,16 +4,16 @@
     "url": "https://deuchnord.fr",
     "icon": "https://icons.duckduckgo.com/ip3/deuchnord.fr.ico",
     "slug": "deuchnord-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "96.22%",
     "time": 782,
-    "timeDay": 0,
-    "timeWeek": 591,
-    "timeMonth": 631,
+    "timeDay": 742,
+    "timeWeek": 612,
+    "timeMonth": 634,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2025-10-06": 37,
@@ -77,7 +77,7 @@
       "2026-07-05": 427,
       "2026-07-21": 8,
       "2026-07-20": 239,
-      "2026-08-20": 1
+      "2026-08-20": 2
     }
   },
   {
@@ -175,9 +175,9 @@
     "slug": "deuch-tech",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "96.21%",
     "time": 1726,
     "timeDay": 4472,
@@ -185,7 +185,8 @@
     "timeMonth": 1773,
     "timeYear": 1818,
     "dailyMinutesDown": {
-      "2025-10-07": 83,
+      "2025-10-07": 126,
+      "2025-10-06": 18,
       "2025-10-12": 323,
       "2025-10-13": 307,
       "2025-10-14": 236,
@@ -245,8 +246,7 @@
       "2026-07-05": 247,
       "2026-07-06": 517,
       "2026-07-21": 5,
-      "2026-07-20": 229,
-      "2026-08-20": 12
+      "2026-07-20": 229
     }
   },
   {
@@ -297,17 +297,17 @@
     "slug": "privatebin",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "94.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "94.91%",
     "time": 875,
     "timeDay": 766,
     "timeWeek": 721,
     "timeMonth": 813,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2025-10-06": 40,
+      "2025-10-06": 63,
       "2025-10-07": 97,
       "2025-10-12": 313,
       "2025-10-13": 270,
@@ -371,8 +371,7 @@
       "2026-07-05": 237,
       "2026-07-06": 512,
       "2026-07-21": 5,
-      "2026-07-20": 224,
-      "2026-08-20": 7
+      "2026-07-20": 224
     }
   }
 ]
