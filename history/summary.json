@@ -6,10 +6,10 @@
     "slug": "deuchnord-fr",
     "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "96.22%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "96.21%",
     "time": 769,
     "timeDay": 742,
     "timeWeek": 612,
@@ -77,7 +77,7 @@
       "2026-07-05": 427,
       "2026-07-21": 8,
       "2026-07-20": 239,
-      "2026-08-21": 15
+      "2026-08-21": 72
     }
   },
   {
@@ -87,10 +87,10 @@
     "slug": "activity-pub-on-deuchnord-fr",
     "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "94.83%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "94.82%",
     "time": 620,
     "timeDay": 3373,
     "timeWeek": 785,
@@ -165,7 +165,7 @@
       "2026-07-21": 4,
       "2026-07-20": 234,
       "2026-08-20": 17,
-      "2026-08-21": 10
+      "2026-08-21": 67
     }
   },
   {
@@ -175,10 +175,10 @@
     "slug": "deuch-tech",
     "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "96.22%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "96.21%",
     "time": 1726,
     "timeDay": 4472,
     "timeWeek": 1827,
@@ -246,7 +246,7 @@
       "2026-07-06": 517,
       "2026-07-21": 5,
       "2026-07-20": 229,
-      "2026-08-21": 5
+      "2026-08-21": 62
     }
   },
   {
@@ -297,10 +297,10 @@
     "slug": "privatebin",
     "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "94.92%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "94.91%",
     "time": 875,
     "timeDay": 766,
     "timeWeek": 721,
@@ -372,7 +372,7 @@
       "2026-07-06": 512,
       "2026-07-21": 5,
       "2026-07-20": 224,
-      "2026-08-21": 0
+      "2026-08-21": 57
     }
   }
 ]
