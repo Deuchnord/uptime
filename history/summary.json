@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deuchnord.fr.ico",
     "slug": "deuchnord-fr",
     "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "71.28%",
-    "uptimeWeek": "94.67%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "96.01%",
+    "uptime": "99.13%",
+    "uptimeDay": "56.94%",
+    "uptimeWeek": "93.20%",
+    "uptimeMonth": "96.32%",
+    "uptimeYear": "95.97%",
     "time": 778,
     "timeDay": 2775,
     "timeWeek": 1270,
@@ -80,7 +80,7 @@
       "2026-09-01": 80,
       "2026-09-04": 124,
       "2026-09-10": 97,
-      "2026-09-11": 317
+      "2026-09-11": 524
     }
   },
   {
@@ -89,11 +89,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deuchnord.fr.ico",
     "slug": "activity-pub-on-deuchnord-fr",
     "status": "down",
-    "uptime": "98.51%",
-    "uptimeDay": "78.66%",
-    "uptimeWeek": "95.77%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "94.65%",
+    "uptime": "98.50%",
+    "uptimeDay": "64.31%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "94.61%",
     "time": 672,
     "timeDay": 1883,
     "timeWeek": 705,
@@ -172,7 +172,7 @@
       "2026-09-02": 29,
       "2026-09-01": 75,
       "2026-09-04": 119,
-      "2026-09-11": 307
+      "2026-09-11": 514
     }
   },
   {
@@ -180,19 +180,19 @@
     "url": "https://tech.deuchnord.fr",
     "icon": "https://icons.duckduckgo.com/ip3/tech.deuchnord.fr.ico",
     "slug": "deuch-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "79.15%",
-    "uptimeWeek": "95.89%",
-    "uptimeMonth": "97.17%",
+    "uptimeDay": "78.79%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "97.15%",
     "uptimeYear": "96.02%",
-    "time": 1733,
+    "time": 1734,
     "timeDay": 6358,
     "timeWeek": 2374,
     "timeMonth": 2120,
     "timeYear": 1862,
     "dailyMinutesDown": {
-      "2025-10-12": 192,
+      "2025-10-12": 170,
       "2025-10-13": 307,
       "2025-10-14": 236,
       "2025-10-15": 134,
@@ -256,7 +256,7 @@
       "2026-09-02": 29,
       "2026-09-01": 71,
       "2026-09-04": 115,
-      "2026-09-11": 300
+      "2026-09-11": 305
     }
   },
   {
@@ -308,9 +308,9 @@
     "status": "down",
     "uptime": "98.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "21.41%",
-    "uptimeMonth": "80.06%",
-    "uptimeYear": "93.30%",
+    "uptimeWeek": "19.81%",
+    "uptimeMonth": "79.59%",
+    "uptimeYear": "93.26%",
     "time": 852,
     "timeDay": 371,
     "timeWeek": 518,
@@ -384,7 +384,7 @@
       "2026-09-02": 29,
       "2026-09-01": 66,
       "2026-09-04": 110,
-      "2026-09-11": 921,
+      "2026-09-11": 1128,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 1440,
