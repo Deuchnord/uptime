@@ -79,17 +79,17 @@
     "url": "https://deuchnord.fr/.well-known/webfinger?resource=acct:blog@deuchnord.fr",
     "icon": "https://icons.duckduckgo.com/ip3/deuchnord.fr.ico",
     "slug": "activity-pub-on-deuchnord-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "96.31%",
     "time": 862,
-    "timeDay": 279,
-    "timeWeek": 365,
-    "timeMonth": 374,
-    "timeYear": 990,
+    "timeDay": 273,
+    "timeWeek": 353,
+    "timeMonth": 371,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2025-11-23": 491,
       "2025-11-22": 445,
@@ -150,7 +150,8 @@
       "2026-09-04": 119,
       "2026-09-11": 692,
       "2026-09-12": 57,
-      "2026-11-07": 249
+      "2026-11-07": 249,
+      "2026-11-20": 0
     }
   },
   {
