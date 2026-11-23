@@ -4,11 +4,11 @@
     "url": "https://deuchnord.fr",
     "icon": "https://icons.duckduckgo.com/ip3/deuchnord.fr.ico",
     "slug": "deuchnord-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "96.47%",
     "time": 785,
     "timeDay": 812,
@@ -69,7 +69,8 @@
       "2026-09-10": 97,
       "2026-09-11": 706,
       "2026-09-12": 57,
-      "2026-11-07": 254
+      "2026-11-07": 254,
+      "2026-11-23": 15
     }
   },
   {
@@ -78,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deuchnord.fr.ico",
     "slug": "activity-pub-on-deuchnord-fr",
     "status": "down",
-    "uptime": "98.36%",
+    "uptime": "98.35%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "59.77%",
-    "uptimeMonth": "90.18%",
-    "uptimeYear": "95.63%",
+    "uptimeWeek": "57.36%",
+    "uptimeMonth": "89.62%",
+    "uptimeYear": "95.59%",
     "time": 863,
     "timeDay": 438,
     "timeWeek": 350,
@@ -147,7 +148,7 @@
       "2026-09-11": 692,
       "2026-09-12": 57,
       "2026-11-07": 249,
-      "2026-11-23": 363,
+      "2026-11-23": 606,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 812
@@ -158,13 +159,13 @@
     "url": "https://tech.deuchnord.fr",
     "icon": "https://icons.duckduckgo.com/ip3/tech.deuchnord.fr.ico",
     "slug": "deuch-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "96.55%",
-    "time": 1811,
+    "time": 1812,
     "timeDay": 2253,
     "timeWeek": 1997,
     "timeMonth": 2057,
@@ -222,7 +223,8 @@
       "2026-09-04": 115,
       "2026-09-11": 478,
       "2026-09-12": 57,
-      "2026-11-07": 244
+      "2026-11-07": 244,
+      "2026-11-23": 5
     }
   },
   {
@@ -266,13 +268,13 @@
     "url": "https://paste.deuchnord.fr",
     "icon": "https://icons.duckduckgo.com/ip3/paste.deuchnord.fr.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "93.89%",
-    "time": 852,
+    "time": 853,
     "timeDay": 899,
     "timeWeek": 701,
     "timeMonth": 739,
@@ -338,7 +340,8 @@
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1130,
-      "2026-11-07": 239
+      "2026-11-07": 239,
+      "2026-11-23": 0
     }
   }
 ]
